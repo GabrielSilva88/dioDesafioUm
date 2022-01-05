@@ -1,0 +1,16 @@
+/home/gabriel/Documentos/dioDesafio/bin/Debug/net5.0/dioDesafio
+/home/gabriel/Documentos/dioDesafio/bin/Debug/net5.0/dioDesafio.deps.json
+/home/gabriel/Documentos/dioDesafio/bin/Debug/net5.0/dioDesafio.runtimeconfig.json
+/home/gabriel/Documentos/dioDesafio/bin/Debug/net5.0/dioDesafio.runtimeconfig.dev.json
+/home/gabriel/Documentos/dioDesafio/bin/Debug/net5.0/dioDesafio.dll
+/home/gabriel/Documentos/dioDesafio/bin/Debug/net5.0/ref/dioDesafio.dll
+/home/gabriel/Documentos/dioDesafio/bin/Debug/net5.0/dioDesafio.pdb
+/home/gabriel/Documentos/dioDesafio/obj/Debug/net5.0/dioDesafio.csproj.AssemblyReference.cache
+/home/gabriel/Documentos/dioDesafio/obj/Debug/net5.0/dioDesafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documentos/dioDesafio/obj/Debug/net5.0/dioDesafio.AssemblyInfoInputs.cache
+/home/gabriel/Documentos/dioDesafio/obj/Debug/net5.0/dioDesafio.AssemblyInfo.cs
+/home/gabriel/Documentos/dioDesafio/obj/Debug/net5.0/dioDesafio.csproj.CoreCompileInputs.cache
+/home/gabriel/Documentos/dioDesafio/obj/Debug/net5.0/dioDesafio.dll
+/home/gabriel/Documentos/dioDesafio/obj/Debug/net5.0/ref/dioDesafio.dll
+/home/gabriel/Documentos/dioDesafio/obj/Debug/net5.0/dioDesafio.pdb
+/home/gabriel/Documentos/dioDesafio/obj/Debug/net5.0/dioDesafio.genruntimeconfig.cache
