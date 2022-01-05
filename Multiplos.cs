@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dioDesafio
+namespace dioDesafioUm
 {
     class Multiplos
     {
